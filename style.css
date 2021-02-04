@@ -1,0 +1,26 @@
+body{
+    background-color:rgb(0, 255, 0);
+}
+.heading{
+    width:100%;
+    margin:0px;
+    font-size:30px;
+    background-color: rgb(21, 124, 21);
+}
+.note{
+    font-size:15px;
+    white-space:normal;
+    color:yellow;
+}
+
+#play{
+    font-size:30px;
+    padding:5px 20px;
+    background-color: darkgreen;
+    color:white;
+}
+canvas{
+    margin-top:200px;
+    border:2px solid black;
+    border-radius:20px;
+}
